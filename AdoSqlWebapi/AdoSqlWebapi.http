@@ -1,0 +1,6 @@
+@AdoSqlWebapi_HostAddress = http://localhost:5226
+
+GET {{AdoSqlWebapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
